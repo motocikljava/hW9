@@ -16,5 +16,6 @@ public class Main {
 //        String fullName = lastName + firstName + middleName;
 //        fullName = fullName.replace("ё", "е");
 //        System.out.println("ФИО сотрудника — " + fullName);
+        System.out.println("sdelal dz");
     }
 }
